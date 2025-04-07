@@ -14,7 +14,7 @@ public class Post {
 
     private long authorId;
 
-    private String description = "someDescription";
+    private String description;
 
     private Instant postDate;
 }
